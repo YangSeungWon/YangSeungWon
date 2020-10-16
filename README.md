@@ -1,16 +1,11 @@
-### Hi there 👋
+# Yang Seungwon
+whysw@PLUS@POSTECH
 
-<!--
-**YangSeungWon/YangSeungWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CTFs
+<pre>
+- finalist, 2020 CODEGATE(univ.)                                                MINUS
+- finalist, 2020 DEFCON CTF                                              koreanbadass
+- 6th, 2020 UIUCTF                                                               PLUS
+- 4th, 2020 Plaid CTF                                                    koreanbadass
+- 1st, CONFidence CTF 2020 Teaser                                                 DDP
+</pre>
